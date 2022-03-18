@@ -10,6 +10,3 @@ const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, proces
 });
 
 module.exports = sequelize;
-
-
-// qcB$s^d(j*95,:L+Q!@ffZc
