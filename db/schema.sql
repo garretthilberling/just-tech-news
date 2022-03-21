@@ -13,14 +13,18 @@ CREATE DATABASE just_tech_news_db;
 -- VALUES
 -- ('DOGE just mooned bro','https://google.com/dogemoonlanding',1),
 
--- {
---     "title": "DOGE just mooned bro",
---     "post_url": "https://google.com/dogemoonlanding",
---     "user_id": 1
--- }
+/*
+{
+    "title": "DOGE just mooned bro",
+    "post_url": "https://google.com/dogemoonlanding",
+    "user_id": 1
+}
+*/
 
--- {
---     "comment_text": "Selling my house rn!!!",
---     "user_id": 3,
---     "post_id": 1
--- }
+/*
+{
+    "comment_text": "Selling my house rn!!!",
+    "user_id": 3,
+    "post_id": 1
+}
+*/
